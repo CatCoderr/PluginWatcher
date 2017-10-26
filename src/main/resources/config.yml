@@ -1,0 +1,7 @@
+#Plugins in this list not be watched.
+exclude:
+- 'WorldGuard'
+- 'Essentials'
+
+#If option enabled, with any changes to the plugins, the server will be reloaded.
+full_reload: false

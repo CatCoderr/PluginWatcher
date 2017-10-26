@@ -1,0 +1,4 @@
+name: PluginWatcher
+version: ${project.version}
+main: io.github.catcoderr.pluginwatcher.PluginWatcher
+author: CatCoder
