@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.nio.file.*;
 
 /**
- * Represents async runnable task, that uses {@link WatchService}.
+ * Represents async runnable task that uses {@link WatchService}.
  *
  * @author CatCoder
  */
