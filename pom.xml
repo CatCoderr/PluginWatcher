@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <description>This plugin does automatically unload &amp; loads other plugins anew when their jar has been updated.</description>
+    <description>This plugin does automatically unload &amp; loads other plugins anew when their gets updated.</description>
 
     <licenses>
         <license>
